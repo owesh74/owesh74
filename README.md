@@ -71,7 +71,6 @@ I'm a passionate **Computer Science Student** and **Full-Stack Developer** who l
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owesh74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owesh74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
