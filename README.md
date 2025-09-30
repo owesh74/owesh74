@@ -21,8 +21,7 @@
 
 I'm a passionate **Computer Science Student** and **Full-Stack Developer** who loves building innovative solutions and solving complex problems. My expertise lies in the **MERN stack**, and I'm constantly improving my **Data Structures & Algorithms** skills to become a better engineer.
 
-- 🔭 Currently working on **SkillMatrix** (Student Resume Builder & Skill Tracker)
-- 🌱 Learning **Advanced DSA, IoT, System Design, and Cloud Technologies**
+- 🌱 Learning **Advanced DSA, and Cloud Technologies**
 - 👯 Open to collaborate on **Full-Stack Applications, AI/ML Projects, and Open Source**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, Java, DSA**
 - 📫 Reach me at: **oweshkhan1856@gmail.com**
@@ -63,22 +62,6 @@ I'm a passionate **Computer Science Student** and **Full-Stack Developer** who l
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owesh74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owesh74&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=owesh74&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </div>
 
 ---
@@ -135,6 +118,22 @@ I'm a passionate **Computer Science Student** and **Full-Stack Developer** who l
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/Todo-App-React)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://oweshs-todo-app-react.vercel.app/)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=owesh74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owesh74&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=owesh74&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+</div>
 
 ---
 
