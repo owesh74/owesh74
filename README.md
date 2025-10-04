@@ -79,14 +79,14 @@ I'm a passionate **Computer Science Student** and **Full-Stack Developer** who l
 - 🔄 Automatic daily reset for meal and workout logs
 
 **🔧 Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Nodemailer` `Tailwind CSS`
+
 *Note:On the deployed version (Frontend on Vercel, Backend on Render), the Google SMTP and Nodemailer OTP feature is currently not functioning.
 As a result, new user registration is temporarily unavailable.
 The feature works correctly in the local environment.
 
 In the meantime, you can log in using the following credentials:
 Email: owesh6646@gmail.com
-
-Password: Owesh@123
+Password:%TGBbgt5
 
 [![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/FitFuel-V2)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-fitfuel.vercel.app/)
