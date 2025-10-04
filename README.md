@@ -125,8 +125,7 @@ Password:%TGBbgt5
 
 **🔧 Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
-[![GitHub - With Auth](https://img.shields.io/badge/Code_(Auth)-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/CoolCare)
-[![GitHub - Without Auth](https://img.shields.io/badge/Code_(Guest)-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/CC-without-auth-client)
+[![GitHub](https://img.shields.io/badge/Code_(Guest)-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/CC-without-auth-client)
 [![Server Code](https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/server-CoolCare)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-coolcare.vercel.app/)
 
