@@ -66,6 +66,33 @@ I'm a passionate **Computer Science Student** and **Full-Stack Developer** who l
 
 ---
 
+### 🏋️ [FitFuel: Nutrition & Fitness Dashboard](https://my-fitfuel.vercel.app/)
+> A comprehensive MERN stack application for personalized fitness and nutrition tracking
+
+**✨ Key Features:**
+- 🔐 Complete authentication system with JWT & OTP verification
+- 📊 Personalized dashboard with BMI & calorie goal calculations
+- 🍽️ Extensive food library with Indian, fast food, and diet-specific items
+- 💪 50+ exercise library with smart logging (cardio & strength tracking)
+- 🌓 Beautiful Dark/Light mode with smooth animations
+- 📱 Fully responsive design for all devices
+- 🔄 Automatic daily reset for meal and workout logs
+
+**🔧 Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Nodemailer` `Tailwind CSS`
+*Note:On the deployed version (Frontend on Vercel, Backend on Render), the Google SMTP and Nodemailer OTP feature is currently not functioning.
+As a result, new user registration is temporarily unavailable.
+The feature works correctly in the local environment.
+
+In the meantime, you can log in using the following credentials:
+Email: owesh6646@gmail.com
+
+Password: Owesh@123
+
+[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/FitFuel-V2)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-fitfuel.vercel.app/)
+
+---
+
 ## 🎯 Featured Projects
 
 ### 🛡️ [DeepFake Detector](https://deep-fake-detector-owesh74s-projects.vercel.app/)
@@ -83,23 +110,25 @@ I'm a passionate **Computer Science Student** and **Full-Stack Developer** who l
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://deep-fake-detector-owesh74s-projects.vercel.app/)
 
 ---
-
-### 🏋️ [FitFuel: Nutrition & Fitness Dashboard](https://my-fitfuel.vercel.app/)
-> A comprehensive MERN stack application for personalized fitness and nutrition tracking
+### ❄️ [CoolCare: AC Service Booking Platform](https://my-coolcare.vercel.app/)
+> A complete MERN stack booking management system for AC servicing business with dual authentication options
 
 **✨ Key Features:**
-- 🔐 Complete authentication system with JWT & OTP verification
-- 📊 Personalized dashboard with BMI & calorie goal calculations
-- 🍽️ Extensive food library with Indian, fast food, and diet-specific items
-- 💪 50+ exercise library with smart logging (cardio & strength tracking)
-- 🌓 Beautiful Dark/Light mode with smooth animations
-- 📱 Fully responsive design for all devices
-- 🔄 Automatic daily reset for meal and workout logs
+- 🔐 Flexible access: With user authentication or guest booking mode
+- 📅 Smart booking system with real-time appointment scheduling
+- 👤 User dashboard for tracking service history & appointments
+- 🛠️ Admin panel for managing bookings, services, and customer data
+- 📊 Service management with pricing and availability tracking
+- 🔔 Booking status updates (Pending, Confirmed, Completed, Cancelled)
+- 🌓 Clean, professional UI with responsive design
+- 📱 Mobile-friendly interface for customers and admins
 
-**🔧 Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Nodemailer` `Tailwind CSS`
+**🔧 Tech Stack:** `React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
-[![GitHub](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/FitFuel-V2)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-fitfuel.vercel.app/)
+[![GitHub - With Auth](https://img.shields.io/badge/Code_(Auth)-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/CoolCare)
+[![GitHub - Without Auth](https://img.shields.io/badge/Code_(Guest)-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/CC-without-auth-client)
+[![Server Code](https://img.shields.io/badge/Server_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/owesh74/server-CoolCare)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-coolcare.vercel.app/)
 
 ---
 
